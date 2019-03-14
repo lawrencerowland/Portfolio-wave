@@ -1,0 +1,17 @@
+name	ring	quadrant	isNew	description
+Orange data-mining	adopt	Platforms	TRUE	"Visual programming to train models on client data  <a href=""https://orange.biolab.si/"">"
+KNIME	trial	Platforms	TRUE	"Visual programming to build and simulate models on client data  <a href=""https://www.knime.com"">"
+Yworks	adopt	Tools	TRUE	"Represent data intuitively with a view tailored to the User <a href=""https://www.yworks.com/products/yed"">"
+Devonthink iOS	adopt	Tools	TRUE	Document database with tagging and search and OCR
+Protégé	assess	Languages & frameworks	TRUE	"Using the knowledge graphs of others <a href=""https://protege.stanford.edu/>"""
+KBPEDIA	trial	Languages & frameworks	TRUE	"Using the knowledge graphs of others  <a href=""http://kbpedia.org/knowledge-graph/"">"
+Google GDELT	assess	Languages & frameworks	TRUE	Using the knowledge graphs of others 
+YAGO knowledge graph	hold	Languages & frameworks	TRUE	"Using the knowledge graphs of others <a href=""https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/"">"
+Triz	assess	Languages & frameworks	TRUE	test
+Watson news	adopt	Techniques	TRUE	Using the knowledge graphs of others
+Tagging	hold	Techniques	TRUE	test
+Modular text files	trial	Techniques	TRUE	"test <a href=""https://www.infonautics-software.ch/directorylistprint/"">"
+Text2Folders	trial	Techniques	TRUE	"test <a href=""http://www.dcmembers.com/skwire/download/text-2-folders/"">"
+Directory List and Print	trial	Techniques	TRUE	test
+Chartmaker	hold	Tools	TRUE	test
+Infranodus	assess	Tools	TRUE	test
