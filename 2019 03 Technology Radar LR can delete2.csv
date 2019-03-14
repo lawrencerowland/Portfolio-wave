@@ -12,6 +12,6 @@ Watson news,adopt,Techniques,TRUE,"Using the knowledge graphs of others <a href=
 Tagging,hold,Techniques,TRUE,"…x… <a href="""
 Modular text files,trial,Techniques,TRUE,"…x… <a href=""https://www.infonautics-software.ch/directorylistprint/"">"
 Text2Folders,trial,Techniques,TRUE,http://www.dcmembers.com/skwire/download/text-2-folders/
-Directory List and Print,trial,Techniques,TRUE,
-Chartmaker,hold,Tools,TRUE,
-Infranodus,assess,Tools,TRUE,
+Directory List and Print,trial,Techniques,TRUE,test
+Chartmaker,hold,Tools,TRUE,test
+Infranodus,assess,Tools,TRUE,test
