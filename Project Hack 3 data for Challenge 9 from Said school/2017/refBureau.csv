@@ -1,0 +1,404 @@
+﻿Id,"Agency Code","Bureau Code","Bureau Name","Bureau Abbreviation","Treasury Agency Code","CGAC Agency Code","First Active BY","Last Active BY"
+515,"	006","	09","Economic Development Challenge",,,,,2012
+516,"	006","	53","Technology Administration",,,,,2012
+519,"	007","	37","Special Foreign Currency Program",,,,,2012
+522,"	009","	95",Allowances,,,,,2012
+523,"	010","	14","Bureau of Mines ",,,,,2012
+524,"	010","	91","Natural Resources Damage Assessment and Restoration",,,,,2012
+526,"	015","	09","Interagency Law Enforcement",,,,,2012
+527,"	015","	47","Office of Housing Finance Oversight",,,,,2012
+533,"	018","	11","Office of Indian Education",,,,,2012
+542,"	024","	50","Security, Enforcement, and Investigations",,,,,2012
+543,"	029","	30",Construction,,,,,2012
+544,"	357","	10","Bank Insurance",,,,,2012
+545,"	357","	25","Deposit Insurance",,,,,2012
+548,"	362","	00","Federal Financial Institutions Examination Council Appraisal Subcommittee",,,,,2012
+549,"	364","	00","Federal Housing Finance Board",,,,,2012
+550,"	515","	00","Commission on Ocean Policy",,,,,2012
+551,"	532","	00","Federal Housing Enterprise Regulator",,,,,2012
+552,"	001","	05",Senate,,"	00","	000",,2017
+553,"	001","	10","House of Representatives",,"	00","	000",,2017
+554,"	001","	11","Joint Items",,"	00","	000",,2017
+555,"	001","	13","Capitol Police",,"	02","	002",,2017
+556,"	001","	12","Office of Compliance",,"	09","	009",,2017
+557,"	001","	14","Congressional Budget Office",,"	08","	008",,2017
+558,"	001","	15","Architect of the Capitol",,"	01","	001",,2017
+559,"	001","	18","Botanic Garden",,"	09","	009",,2017
+560,"	001","	25","Library of Congress",,"	03","	003",,2017
+561,"	001","	30","Government Publishing Office",,"	04","	004",,2017
+562,"	001","	35","Government Accountability Office",,"	05","	005",,2017
+563,"	001","	40","United States Tax Court",,"	23","	023",,2017
+564,"	001","	45","Legislative Branch Boards and Commissions",,"	09","	009",,2017
+566,"	002","	00","Judicial Branch",,"	10","	010",,2017
+567,"	002","	05","Supreme Court of the United States",,"	10","	010",,2017
+568,"	002","	07","United States Court of Appeals for the Federal Circuit",,"	10","	010",,2017
+569,"	002","	15","United States Court of International Trade",,"	10","	010",,2017
+570,"	002","	25","Courts of Appeals, District Courts, and Other Judicial Services",,"	10","	010",,2017
+571,"	002","	26","Administrative Office of the United States Courts",,"	10","	010",,2017
+572,"	002","	30","Federal Judicial Center",,"	10","	010",,2017
+573,"	002","	35","Judicial Retirement Funds",,"	10","	010",,2017
+574,"	002","	39","United States Sentencing Commission",,"	10","	010",,2017
+575,"	005","	00","Department of Agriculture",,"	12","	012",,2017
+576,"	005","	03","Office of the Secretary",,"	12","	012",,2017
+577,"	005","	04","Executive Operations",,"	12","	012",,2017
+578,"	005","	09","Office of Chief Economist",,"	12","	012",,2015
+579,"	005","	11","National Appeals Division",,"	12","	012",,2015
+580,"	005","	07","Office of Civil Rights",,"	12","	012",,2017
+581,"	005","	05","Departmental Management",,"	12","	012",,2015
+582,"	005","	06","Office of Communications",,"	12","	012",,2015
+583,"	005","	08","Office of Inspector General",,"	12","	012",,2017
+584,"	005","	10","Office of the General Counsel",,"	12","	012",,2017
+585,"	005","	13","Economic Research Service",,"	12","	012",,2017
+586,"	005","	15","National Agricultural Statistics Service",,"	12","	012",,2017
+587,"	005","	18","Agricultural Research Service",,"	12","	012",,2017
+588,"	005","	20","National Institute of Food and Agriculture",,"	12","	012",,2017
+589,"	005","	32","Animal and Plant Health Inspection Service",,"	12","	012",,2017
+590,"	005","	35","Food Safety and Inspection Service",,"	12","	012",,2017
+591,"	005","	37","Grain Inspection, Packers and Stockyards Administration",,"	12","	012",,2017
+592,"	005","	45","Agricultural Marketing Service",,"	12","	012",,2017
+593,"	005","	47","Risk Management Agency",,"	12","	012",,2017
+594,"	005","	49","Farm Service Agency",,"	12","	012",,2017
+595,"	005","	53","Natural Resources Conservation Service",,"	12","	012",,2017
+596,"	005","	55","Rural Development",,"	12","	012",,2017
+597,"	005","	63","Rural Housing Service",,"	12","	012",,2017
+598,"	005","	65","Rural Business Cooperative Service",,"	12","	012",,2017
+599,"	005","	60","Rural Utilities Service",,"	12","	012",,2017
+600,"	005","	68","Foreign Agricultural Service",,"	12","	012",,2017
+601,"	005","	84","Food and Nutrition Service",,"	12","	012",,2017
+602,"	005","	96","Forest Service",,"	12","	012",,2017
+603,"	006","	00","Department of Commerce",,"	13","	013",,2017
+604,"	006","	05","Departmental Management",,"	13","	013",,2017
+605,"	006","	06","Economic Development Administration",,"	13","	013",,2017
+606,"	006","	07","Bureau of the Census",,"	13","	013",,2017
+607,"	006","	08","Economics and Statistics Administration",,"	13","	013",,2017
+608,"	006","	25","International Trade Administration",,"	13","	013",,2017
+609,"	006","	30","Bureau of Industry and Security",,"	13","	013",,2017
+610,"	006","	40","Minority Business Development Agency",,"	13","	013",,2017
+611,"	006","	48","National Oceanic and Atmospheric Administration",,"	13","	013",,2017
+612,"	006","	51","U.S. Patent and Trademark Office",,"	13","	013",,2017
+613,"	006","	54","National Technical Information Service",,"	13","	013",,2017
+614,"	006","	55","National Institute of Standards and Technology",,"	13","	013",,2017
+615,"	006","	60","National Telecommunications and Information Administration",,"	13","	013",,2017
+616,"	007","	00","Department of Defense-Military Programs",,*,*,,2017
+617,"	007","	05","Military Personnel",,*,*,,2017
+618,"	007","	10","Operation and Maintenance",,*,*,,2017
+619,"	007","	12","International Reconstruction and Other Assistance",,*,*,,2017
+620,"	007","	15",Procurement,,*,*,,2017
+621,"	007","	20","Research, Development, Test, and Evaluation",,*,*,,2017
+622,"	007","	25","Military Construction",,*,*,,2017
+623,"	007","	30","Family Housing",,*,*,,2017
+624,"	007","	40","Revolving and Management Funds",,*,*,,2017
+625,"	007","	45",Allowances,,*,*,,2017
+626,"	007","	55","Trust Funds",,*,*,,2017
+627,"	007","	17","Navy, Marine Corps",,*,n/a,2015,2017
+631,"	018","	00","Department of Education",,"	91","	091",,2017
+632,"	018","	10","Office of Elementary and Secondary Education",,"	91","	091",,2017
+633,"	018","	12","Office of Innovation and Improvement",,"	91","	091",,2017
+634,"	018","	15","Office of English Language Acquisition",,"	91","	091",,2017
+635,"	018","	20","Office of Special Education and Rehabilitative Services",,"	91","	091",,2017
+636,"	018","	30","Office of Vocational and Adult Education",,"	91","	091",,2017
+637,"	018","	40","Office of Postsecondary Education",,"	91","	091",,2017
+638,"	018","	45","Office of Federal Student Aid",,"	91","	091",,2017
+639,"	018","	50","Institute of Education Sciences",,"	91","	091",,2017
+640,"	018","	80","Departmental Management",,"	91","	091",,2017
+641,"	018","	85","Hurricane Education Recovery",,"	91","	091",,2017
+642,"	019","	00","Department of Energy",,"	89","	089",,2017
+643,"	019","	05","National Nuclear Security Administration",,"	89","	089",,2017
+644,"	019","	10","Environmental and Other Defense Activities",,"	89","	089",,2017
+645,"	019","	20","Energy Programs",,"	89","	089",,2017
+646,"	019","	50","Power Marketing Administration",,"	89","	089",,2017
+647,"	019","	60","Departmental Administration",,"	89","	089",,2017
+648,"	009","	00","Department of Health and Human Services",,"	75","	075",,2017
+649,"	009","	10","Food and Drug Administration",,"	75","	075",,2017
+650,"	009","	15","Health Resources and Services Administration",,"	75","	075",,2017
+651,"	009","	17","Indian Health Service",,"	75","	075",,2017
+652,"	009","	20","Centers for Disease Control and Prevention",,"	75","	075",,2017
+653,"	009","	25","National Institutes of Health",,"	75","	075",,2017
+654,"	009","	30","Substance Abuse and Mental Health Services Administration",,"	75","	075",,2017
+655,"	009","	33","Agency for Healthcare Research and Quality",,"	75","	075",,2017
+656,"	009","	38","Centers for Medicare and Medicaid Services",,"	75","	075",,2017
+657,"	009","	70","Administration for Children and Families",,"	75","	075",,2017
+658,"	009","	75","Administration for Community Living",,"	75","	075",,2017
+659,"	009","	90","Departmental Management",,"	75","	075",,2017
+660,"	009","	91","Program Support Center",,"	75","	075",,2017
+661,"	009","	92","Office of the Inspector General",,"	75","	075",,2017
+662,"	024","	00","Department of Homeland Security",,"	70","	070",,2017
+663,"	024","	10","Departmental Management and Operations",,"	70","	070",,2017
+664,"	024","	20","Office of the Inspector General",,"	70","	070",,2017
+665,"	024","	30","Citizenship and Immigration Services",,"	70","	070",,2017
+666,"	024","	40","United States Secret Service",,"	70","	070",,2017
+667,"	024","	45","Transportation Security Administration",,"	70","	070",,2017
+668,"	024","	49","Federal Law Enforcement Training Center",,"	70","	070",,2017
+669,"	024","	55","Immigration and Customs Enforcement",,"	70","	070",,2017
+670,"	024","	58","U.S. Customs and Border Protection",,"	70","	070",,2017
+671,"	024","	60","United States Coast Guard",,"	70","	070",,2017
+672,"	024","	65","National Protection and Programs Directorate",,"	70","	070",,2017
+673,"	024","	70","Federal Emergency Management Agency",,"	70","	070",,2017
+674,"	024","	80","Science and Technology",,"	70","	070",,2017
+675,"	024","	85","Domestic Nuclear Detection Office",,"	70","	070",,2017
+676,"	024","	90","Information Analysis and Infrastructure Protection",,"	70","	070",,2015
+677,"	025","	00","Department of Housing and Urban Development",,"	86","	086",,2017
+678,"	025","	03","Public and Indian Housing Programs",,"	86","	086",,2017
+679,"	025","	06","Community Planning and Development",,"	86","	086",,2017
+680,"	025","	09","Housing Programs",,"	86","	086",,2017
+681,"	025","	12","Government National Mortgage Association",,"	86","	086",,2017
+682,"	025","	28","Policy Development and Research",,"	86","	086",,2017
+683,"	025","	29","Fair Housing and Equal Opportunity",,"	86","	086",,2017
+684,"	025","	32","Office of Lead Hazard Control and Healthy Homes",,"	86","	086",,2017
+685,"	025","	33","Office of Sustainable Housing and Communities",,"	86","	086",,2017
+686,"	025","	35","Management and Administration",,"	86","	086",,2017
+687,"	010","	00","Department of the Interior",,"	14","	014",,2017
+688,"	010","	04","Bureau of Land Management",,"	14","	014",,2017
+689,"	010","	06","Bureau of Ocean Energy Management",,"	14","	014",,2017
+690,"	010","	08","Office of Surface Mining Reclamation and Enforcement",,"	14","	014",,2017
+691,"	010","	10","Bureau of Reclamation",,"	14","	014",,2017
+692,"	010","	11","Central Utah Project",,"	14","	014",,2017
+693,"	010","	12","United States Geological Survey",,"	14","	014",,2017
+694,"	010","	18","United States Fish and Wildlife Service",,"	14","	014",,2017
+695,"	010","	22","Bureau of Safety and Environmental Enforcement",,"	14","	014",2014,2017
+696,"	010","	24","National Park Service",,"	14","	014",,2017
+697,"	010","	76","Bureau of Indian Affairs and Bureau of Indian Education",,"	14","	014",,2017
+698,"	010","	84","Departmental Offices",,"	14","	014",,2017
+699,"	010","	85","Insular Affairs",,"	14","	014",,2017
+700,"	010","	86","Office of the Solicitor",,"	14","	014",,2017
+701,"	010","	88","Office of Inspector General",,"	14","	014",,2017
+702,"	010","	90","Office of the Special Trustee for American Indians",,"	14","	014",,2017
+703,"	010","	92","National Indian Gaming Commission",,"	14","	014",,2017
+704,"	010","	95","Department-Wide Programs",,"	14","	014",,2017
+705,"	011","	00","Department of Justice",,"	15","	015",,2017
+706,"	011","	03","General Administration",,"	15","	015",,2017
+707,"	011","	04","United States Parole Commission",,"	15","	015",,2017
+708,"	011","	05","Legal Activities and U.S. Marshals",,"	15","	015",,2017
+709,"	011","	08","National Security Division",,"	15","	015",,2017
+710,"	011","	06","Radiation Exposure Compensation",,"	15","	015",,2017
+711,"	011","	07","Interagency Law Enforcement",,"	15","	015",,2017
+712,"	011","	10","Federal Bureau of Investigation",,"	15","	015",,2017
+713,"	011","	12","Drug Enforcement Administration",,"	15","	015",,2017
+714,"	011","	14","Bureau of Alcohol, Tobacco, Firearms, and Explosives",,"	15","	015",,2017
+715,"	011","	20","Federal Prison System",,"	15","	015",,2017
+716,"	011","	21","Office of Justice Programs",,"	15","	015",,2017
+717,"	011","	30","Violent Crime Reduction Trust Fund",,"	15","	015",,2017
+718,"	012","	00","Department of Labor",,"	16","	016",,2017
+719,"	012","	05","Employment and Training Administration",,"	16","	016",,2017
+720,"	012","	11","Employee Benefits Security Administration",,"	16","	016",,2017
+721,"	012","	12","Pension Benefit Guaranty Corporation",,"	16","	016",,2017
+722,"	012","	17","Employment Standards Administration",,"	16","	016",,2017
+723,"	012","	15","Office of Workers' Compensation Programs",,"	16","	016",,2017
+724,"	012","	16","Wage and Hour Division",,"	16","	016",,2017
+725,"	012","	22","Office of Federal Contract Compliance Programs",,"	16","	016",,2017
+726,"	012","	23","Office of Labor Management Standards",,"	16","	016",,2017
+727,"	012","	18","Occupational Safety and Health Administration",,"	16","	016",,2017
+728,"	012","	19","Mine Safety and Health Administration",,"	16","	016",,2017
+729,"	012","	20","Bureau of Labor Statistics",,"	16","	016",,2017
+730,"	012","	25","Departmental Management",,"	16","	016",,2017
+731,"	014","	00","Department of State",,"	19","	019",,2017
+732,"	014","	05","Administration of Foreign Affairs",,"	19","	019",,2017
+733,"	014","	10","International Organizations and Conferences",,"	19","	019",,2017
+734,"	014","	15","International Commissions",,"	19","	019",,2017
+735,"	014","	25",Other,,"	11","	011",,2017
+739,"	021","	00","Department of Transportation",,"	69","	069",,2017
+740,"	021","	04","Office of the Secretary",,"	69","	069",,2017
+741,"	021","	02","National Infrastructure Bank",,"	69","	069",,2014
+742,"	021","	12","Federal Aviation Administration",,"	69","	069",,2017
+743,"	021","	15","Federal Highway Administration",,"	69","	069",,2017
+744,"	021","	17","Federal Motor Carrier Safety Administration",,"	69","	069",,2017
+745,"	021","	18","National Highway Traffic Safety Administration",,"	69","	069",,2017
+746,"	021","	27","Federal Railroad Administration",,"	69","	069",,2017
+747,"	021","	36","Federal Transit Administration",,"	69","	069",,2017
+748,"	021","	40","Saint Lawrence Seaway Development Corporation",,"	69","	069",,2017
+749,"	021","	50","Pipeline and Hazardous Materials Safety Administration",,"	69","	069",,2017
+750,"	021","	56","Office of Inspector General",,"	69","	069",,2017
+751,"	021","	61","Surface Transportation Board",,"	69","	069",,2017
+752,"	021","	70","Maritime Administration",,"	69","	069",,2017
+753,"	015","	00","Department of the Treasury",,"	20","	020",,2017
+754,"	015","	05","Departmental Offices",,"	20","	020",,2017
+755,"	015","	04","Financial Crimes Enforcement Network",,"	20","	020",,2017
+756,"	015","	12","Fiscal Service",,"	20","	020",2014,2017
+757,"	015","	11","Federal Financing Bank",,"	20","	020",,2017
+758,"	015","	13","Alcohol and Tobacco Tax and Trade Bureau",,"	20","	020",,2017
+759,"	015","	20","Bureau of Engraving and Printing",,"	20","	020",,2017
+760,"	015","	25","United States Mint",,"	20","	020",,2017
+761,"	015","	45","Internal Revenue Service",,"	20","	020",,2017
+762,"	015","	57","Comptroller of the Currency",,"	20","	020",,2017
+763,"	015","	58","Office of Thrift Supervision",,"	20","	020",,2014
+764,"	015","	60","Interest on the Public Debt",,"	20","	020",,2017
+765,"	029","	00","Department of Veterans Affairs",,"	36","	036",,2017
+766,"	029","	15","Veterans Health Administration",,"	36","	036",,2017
+767,"	029","	25","Benefits Programs",,"	36","	036",,2017
+768,"	029","	40","Departmental Administration",,"	36","	036",,2017
+769,"	200","	05","Military Retirement",,"	97","	097",,2017
+770,"	200","	07","Retiree Health Care",,"	97","	097",,2017
+771,"	200","	10","Educational Benefits",,"	97","	097",,2017
+772,"	200","	15","American Battle Monuments Commission",,"	74","	074",,2017
+773,"	200","	20","Armed Forces Retirement Home",,"	84","	084",,2017
+774,"	200","	25","Cemeterial Expenses",,"	21","	021",,2017
+775,"	200","	30","Forest and Wildlife Conservation, Military Reservations",,"	97","	097",,2017
+776,"	200","	45","Selective Service System",,"	90","	090",,2017
+777,"	184","	00","International Assistance Programs",,"	72",n/a,,2017
+778,"	184","	03","Millennium Challenge Corporation",,"	95","	524",,2017
+779,"	184","	05","International Security Assistance",,"	11","	011",,2017
+781,"	184","	10","Multilateral Assistance",,"	11","	011",,2017
+784,"	184","	20","Overseas Private Investment Corporation",,"	71","	071",,2017
+785,"	184","	25","Trade and Development Agency",,"	11","	011",,2017
+786,"	184","	35","Peace Corps",,"	11","	011",,2017
+787,"	184","	40","Inter-American Foundation",,"	11","	011",,2017
+788,"	184","	50","African Development Foundation",,"	11","	011",,2017
+789,"	184","	60","International Monetary Programs",,"	11","	011",,2017
+790,"	184","	70","Military Sales Program",,"	11","	011",,2017
+791,"	184","	75","Special Assistance Initiatives",,"	72","	072",,2016
+792,"	100","	05","The White House",,"	11","	011",,2017
+793,"	100","	10","Executive Residence at the White House",,"	11","	011",,2017
+794,"	100","	15","Special Assistance to the President and the Official Residence of the Vice President",,"	11","	011",,2017
+795,"	100","	20","Council of Economic Advisers",,"	11","	011",,2017
+796,"	100","	25","Council on Environmental Quality and Office of Environmental Quality",,"	11","	011",,2017
+797,"	100","	35","National Security Council and Homeland Security Council",,"	11","	011",,2017
+798,"	100","	50","Office of Administration",,"	11","	011",,2017
+799,"	100","	55","Office of Management and Budget",,"	11","	011",,2017
+800,"	100","	60","Office of National Drug Control Policy",,"	11","	011",,2017
+801,"	100","	65","Office of Science and Technology Policy",,"	11","	011",,2017
+802,"	100","	70","Office of the United States Trade Representative",,"	11","	011",,2017
+803,"	100","	95","Unanticipated Needs",,"	11","	011",,2017
+804,"	100","	98","Presidential Transition",,"	11","	011",,2015
+805,"	023","	00","General Services Administration",,"	47","	047",,2017
+806,"	023","	05","Real Property Activities",,"	47","	047",,2017
+807,"	023","	10","Supply and Technology Activities",,"	47","	047",,2017
+808,"	023","	30","General Activities",,"	47","	047",,2017
+809,"	202","	00","Corps of Engineers-Civil Works",,"	96","	096",,2017
+810,"	020","	00","Environmental Protection Agency",,"	68","	068",,2017
+811,"	026","	00","National Aeronautics and Space Administration",,"	80","	080",,2017
+812,"	422","	00","National Science Foundation",,"	49","	049",,2017
+813,"	027","	00","Office of Personnel Management",,"	24","	024",,2017
+814,"	028","	00","Small Business Administration",,"	73","	073",,2017
+815,"	016","	00","Social Security Administration",,"	28","	028",,2017
+816,"	310","	00","Other Independent Agencies",,"	95","	310",,2017
+817,"	302","	00","Administrative Conference of the United States",,"	95","	302",,2017
+818,"	306","	00","Advisory Council on Historic Preservation",,"	95","	306",,2017
+819,"	530","	00","Affordable Housing Program",,"	95","	530",,2017
+820,"	309","	00","Appalachian Regional Commission",,"	46","	309",,2017
+821,"	313","	00","Barry Goldwater Scholarship and Excellence in Education Foundation",,"	95","	313",,2017
+822,"	514","	00","Broadcasting Board of Governors",,"	95","	514",,2017
+823,"	581","	00","Bureau of Consumer Financial Protection",,"	95","	581",,2017
+824,"	316","	00","Central Intelligence Agency",,"	56","	056",,2017
+825,"	510","	00","Chemical Safety and Hazard Investigation Board",,"	95","	510",,2017
+826,"	465","	00","Christopher Columbus Fellowship Foundation",,"	76","	465",,2017
+827,"	582","	00","Civilian Property Realignment Board",,"	95","	582",,2017
+828,"	323","	00","Commission of Fine Arts",,"	95","	323",,2017
+829,"	326","	00","Commission on Civil Rights",,"	95","	326",,2017
+830,"	338","	00","Committee for Purchase from People who are Blind or Severely Disabled, activities",,"	95","	338",,2017
+831,"	339","	00","Commodity Futures Trading Commission",,"	95","	339",,2017
+832,"	343","	00","Consumer Product Safety Commission",,"	61","	061",,2017
+833,"	485","	00","Corporation for National and Community Service",,"	95","	485",,2017
+834,"	344","	00","Corporation for Public Broadcasting",,"	20","	020",,2017
+835,"	580","	00","Corporation for Travel Promotion",,"	95","	580",,2017
+836,"	542","	00","Council of the Inspectors General on Integrity and Efficiency",,"	95","	542",,2017
+837,"	511","	00","Court Services and Offender Supervision Agency for the District of Columbia",,"	95","	511",,2017
+838,"	347","	00","Defense Nuclear Facilities Safety Board",,"	95","	347",,2017
+839,"	517","	00","Delta Regional Authority",,"	95","	517",,2017
+840,"	513","	00","Denali Commission",,"	95","	513",,2017
+841,"	349","	10","District of Columbia Courts",,"	95","	349",,2017
+842,"	349","	30","District of Columbia General and Special Payments",,"	20","	020",,2017
+843,"	525","	00","Election Assistance Commission",,"	95","	525",,2017
+844,"	531","	00","Electric Reliability Organization",,"	95","	531",,2017
+845,"	350","	00","Equal Employment Opportunity Commission",,"	45","	045",,2017
+846,"	351","	00","Export-Import Bank of the United States",,"	83","	083",,2017
+847,"	352","	00","Farm Credit Administration",,"	78","	352",,2017
+848,"	355","	00","Farm Credit System Insurance Corporation",,"	78","	352",,2017
+849,"	356","	00","Federal Communications Commission",,"	27","	027",,2017
+850,"	357","	20","Deposit Insurance",,"	51","	051",,2017
+851,"	357","	30","FSLIC Resolution",,"	51","	051",,2017
+852,"	357","	35","Orderly Liquidation",,"	51","	051",,2017
+853,"	357","	40","FDIC_Office of Inspector General",,"	51","	051",,2017
+854,"	154","	00","Federal Drug Control Programs",,"	11","	011",,2017
+855,"	360","	00","Federal Election Commission",,"	95","	360",,2017
+856,"	362","	10","Federal Financial Institutions Examination Council",,"	95","	362",,2017
+857,"	362","	20","Federal Financial Institutions Examination Council Appraisal Subcommittee",,"	95","	362",,2017
+858,"	537","	00","Federal Housing Finance Agency",,"	95","	537",,2017
+859,"	365","	00","Federal Labor Relations Authority",,"	54","	054",,2017
+860,"	366","	00","Federal Maritime Commission",,"	65","	065",,2017
+861,"	367","	00","Federal Mediation and Conciliation Service",,"	93","	093",,2017
+862,"	368","	00","Federal Mine Safety and Health Review Commission",,"	95","	368",,2017
+863,"	369","	00","Federal Retirement Thrift Investment Board",,"	26","	026",,2017
+864,"	370","	00","Federal Trade Commission",,"	29","	029",,2017
+865,"	372","	00","Harry S Truman Scholarship Foundation",,"	95","	372",,2017
+866,"	578","	00","Independent Payment Advisory Board",,"	95","	578",2014,2017
+867,"	584","	00","Indian Law and Order Commission",,"	48","	584",2014,2017
+868,"	373","	00","Institute of American Indian and Alaska Native Culture and Arts Development",,"	95","	373",,2017
+869,"	467","	00","Intelligence Community Management Account",,"	95","	467",,2017
+870,"	378","	00","International Trade Commission",,"	34","	034",,2017
+871,"	381","	00","James Madison Memorial Fellowship Foundation",,"	95","	381",,2017
+872,"	382","	00","Japan-United States Friendship Commission",,"	95","	382",,2017
+873,"	385","	00","Legal Services Corporation",,"	20","	020",,2017
+874,"	387","	00","Marine Mammal Commission",,"	95","	387",,2017
+875,"	389","	00","Merit Systems Protection Board",,"	41","	389",,2017
+876,"	487","	00","Morris K. Udall and Stewart L. Udall Foundation",,"	95","	487",,2017
+877,"	393","	00","National Archives and Records Administration",,"	88","	088",,2017
+878,"	394","	00","National Capital Planning Commission",,"	95","	394",,2017
+879,"	413","	00","National Council on Disability",,"	95","	413",,2017
+880,"	415","	00","National Credit Union Administration",,"	25","	025",,2017
+881,"	417","	00","National Endowment for the Arts",,"	59","	417",,2017
+882,"	418","	00","National Endowment for the Humanities",,"	59","	417",,2017
+883,"	474","	00","Institute of Museum and Library Services",,"	59","	417",,2017
+884,"	420","	00","National Labor Relations Board",,"	63","	420",,2017
+885,"	421","	00","National Mediation Board",,"	95","	421",,2017
+886,"	575","	00","National Railroad Passenger Corporation Office of Inspector General",,"	48","	575",,2017
+887,"	424","	00","National Transportation Safety Board",,"	95","	424",,2017
+888,"	428","	00","Neighborhood Reinvestment Corporation",,"	82","	082",,2017
+889,"	573","	00","Northern Border Regional Commission",,"	95","	573",,2017
+890,"	429","	00","Nuclear Regulatory Commission",,"	31","	031",,2017
+891,"	431","	00","Nuclear Waste Technical Review Board",,"	48","	431",,2017
+892,"	432","	00","Occupational Safety and Health Review Commission",,"	95","	432",,2017
+893,"	434","	00","Office of Government Ethics",,"	95","	434",,2017
+894,"	435","	00","Office of Navajo and Hopi Indian Relocation",,"	48","	435",,2017
+895,"	436","	00","Office of Special Counsel",,"	62","	062",,2017
+896,"	534","	00","Office of the Federal Coordinator for Alaska Natural Gas Transportation Projects",,"	95","	534",,2017
+897,"	505","	00","Other Commissions and Boards",,"	48","	377",,2017
+898,"	579","	00","Patient-Centered Outcomes Research Trust Fund",,"	95","	579",,2017
+899,"	440","	00","Postal Service",,"	18","	018",,2017
+900,"	512","	00","Presidio Trust",,"	95","	512",,2017
+901,"	535","	00","Privacy and Civil Liberties Oversight Board",,"	95","	535",,2017
+902,"	585","	00","Public Safety Broadband Corporation",,"	95",n/a,2014,2014
+903,"	446","	00","Railroad Retirement Board",,"	60","	060",,2017
+904,"	539","	00","Recovery Act Accountability and Transparency Board",,"	95","	539",,2017
+905,"	449","	00","Securities and Exchange Commission",,"	50","	050",,2017
+906,"	526","	00","Public Company Accounting Oversight Board",,"	95","	526",,2017
+907,"	527","	00","Standard Setting Body",,"	95","	527",,2017
+908,"	576","	00","Securities Investor Protection Corporation",,"	95","	576",,2017
+909,"	452","	00","Smithsonian Institution",,"	33","	033",,2017
+910,"	453","	00","State Justice Institute",,"	48","	453",,2017
+911,"	528","	00","Telecommunications Development Fund",,"	95",n/a,,2015
+912,"	455","	00","Tennessee Valley Authority",,"	64","	455",,2017
+913,"	476","	00","United Mine Workers of America Benefit Funds",,"	95","	476",,2017
+914,"	345","	00","United States Court of Appeals for Veterans Claims",,"	95","	345",,2017
+915,"	486","	00","United States Enrichment Corporation Fund",,"	95","	486",,2017
+916,"	456","	00","United States Holocaust Memorial Museum",,"	95","	456",,2017
+917,"	458","	00","United States Institute of Peace",,"	95","	458",,2017
+918,"	376","	00","United States Interagency Council on Homelessness",,"	48","	376",,2017
+919,"	519","	00","Vietnam Education Foundation",,"	95","	519",,2017
+920,"	915","	00","Federal National Mortgage Association",,"	39","	915",,2017
+921,"	914","	00","Federal Home Loan Mortgage Corporation",,"	39","	914",,2017
+922,"	913","	00","Federal Home Loan Bank System",,"	39","	913",,2017
+923,"	912","	00","Farm Credit System",,"	39","	912",,2017
+924,"	920","	00","Financing Vehicles and the Board of Governors of the Federal Reserve",,"	39","	920",,2017
+925,"	021","	53","Research and Innovative Technology Administration",,"	69",,,2013
+926,"	015","	35","Bureau of the Public Debt",,"	20",,,2013
+927,"	100","	00","Executive Office of the President",,"	11","	011",,2017
+928,"	357","	00","Federal Deposit Insurance Corporation",,"	51",,,2014
+929,"	015","	10","Financial Management Service",,"	20",,,2013
+930,"	001","	00","Legislative Branch",,"	00",,,2014
+931,"	349","	00","District of Columbia",,,,,2013
+932,"	184","	95","Foreign Assistance Program Allowances",,"	95",n/a,,2017
+933,"	018","	14","Office of Safe and Drug-Free Schools",,"	91",,,2013
+935,"	007","	21",Army,,*,n/a,2015,2017
+936,"	007","	57","Air Force",,*,n/a,2015,2017
+937,"	007","	97",Defense-wide,,*,n/a,2015,2017
+938,"	200","	00","Other Defense Civil Programs",,"	84",n/a,2015,2017
+940,"	184","	15","Agency for International Development",,"	72","	072",2015,2017
+941,"	538","	00","National Infrastructure Bank",,"	95","	538",2015,2017
+942,"	005","	12","Office of Chief Information Officer",,"	12","	012",2016,2017
+943,"	005","	14","Office of Chief Financial Officer",,"	12","	012",2016,2017
+944,"	005","	16","Hazardous Materials Management",,"	12","	012",2016,2017
+945,"	005","	19","Buildings and Facilities",,"	12","	012",2016,2017
+946,"	586","	00","Gulf Coast Ecosystem Restoration Council",,"	95","	471",2016,2017
+947,"	479","	00","Military Compensation and Retirement Modernization Commission",,"	48","	479",2016,2017
+948,"	587","	00","Public Defender Service for the District of Columbia",,"	95","	511",2016,2017
+949,"	472","	00","Surface Transportation Board",,,,2017,2017
