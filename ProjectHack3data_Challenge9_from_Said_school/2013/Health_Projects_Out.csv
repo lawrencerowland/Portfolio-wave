@@ -1,0 +1,109 @@
+Unique_Investment_Identifier,Business_Case_ID,Agency_Code,Agency_Name,Investment_Title,Project_ID,Project_Name,Start_Date,Cost_Variance,PlannedCost,Updated_Date,Planned_Duration,Project_delay,Start_days_after_2000
+009-000001422,184,9,Department of Health and Human Services,ACF Expanded Federal Parent Locator Service (OCSE),2207,Passport Denial Online Enhancements,2011-07-05,0.001,0.042,296,94.0,0.0,4203
+009-000001422,184,9,Department of Health and Human Services,ACF Expanded Federal Parent Locator Service (OCSE),2208,Debt Inquiry Enhancements,2011-10-10,0.002,0.11,199,102.0,0.0,4300
+009-000001422,184,9,Department of Health and Human Services,ACF Expanded Federal Parent Locator Service (OCSE),2211,NDNH Employer Address to Relational Database,2011-04-27,0.028,0.332,453,443.0,0.0,4134
+009-000001422,184,9,Department of Health and Human Services,ACF Expanded Federal Parent Locator Service (OCSE),2212,DoD Entitlements Interface,2010-12-15,-0.001,0.315,498,226.0,0.0,4001
+009-000001422,184,9,Department of Health and Human Services,ACF Expanded Federal Parent Locator Service (OCSE),2213,MICRS Release 12.01,2011-08-22,-0.001,0.3,274,189.0,4.0,4251
+009-000001422,184,9,Department of Health and Human Services,ACF Expanded Federal Parent Locator Service (OCSE),2217,FSF Portal PIV Card Implementation,2011-09-06,0.0,0.177,233,129.0,0.0,4266
+009-000001422,184,9,Department of Health and Human Services,ACF Expanded Federal Parent Locator Service (OCSE),2218,Debt Inquiry Development,2010-12-13,0.001,0.343,500,217.0,0.0,3999
+009-000001386,257,9,Department of Health and Human Services,CDC OID NCIRD Vaccine Tracking System (VTrckS),2012,VTrckS - Release 2,2011-06-13,0.136,6.05,381,292.0,0.0,4181
+009-000001378,262,9,Department of Health and Human Services,CDC PHIN: National Electronic Disease Surveillance System,2005,NEDSS - Core National Notifiable Diseases Data Provisioning to CDC Programs,2010-12-21,-0.355,2.4,583,1054.0,0.0,4007
+009-000001378,262,9,Department of Health and Human Services,CDC PHIN: National Electronic Disease Surveillance System,2006,NEDSS - Base System Development,2010-12-21,0.172,1.585,583,639.0,375.0,4007
+009-000001465,274,9,Department of Health and Human Services,CMS Health Care Quality Improvement System (QIES),2022,QIES CLIA Online Accounting,2011-07-27,0.02,1.0,274,157.0,0.0,4225
+009-000001468,275,9,Department of Health and Human Services,CMS Healthcare Integrated General Ledger Accounting System (HIGLAS),2025,HIGLAS Administrative Program Accounting,2011-02-01,-0.45,16.983,538,424.0,61.0,4049
+009-000001468,275,9,Department of Health and Human Services,CMS Healthcare Integrated General Ledger Accounting System (HIGLAS),2026,HIGLAS Project Management Support,2011-04-01,0.0,6.0,391,365.0,0.0,4108
+009-000001468,275,9,Department of Health and Human Services,CMS Healthcare Integrated General Ledger Accounting System (HIGLAS),2027,HIGLAS MAC Transitions,2011-06-25,0.408,7.335,394,363.0,0.0,4193
+009-000004611,281,9,Department of Health and Human Services,CMS Interoperability & Standardization - Provider Enrollment (PECOS),2029,PECOS FY 2012 3rd Quarter Release,2012-01-17,-0.064,2.41,188,195.0,0.0,4399
+009-000004611,281,9,Department of Health and Human Services,CMS Interoperability & Standardization - Provider Enrollment (PECOS),2030,PECOS FY 2012 1st Quarter Release,2011-07-18,0.341,2.641,283,196.0,14.0,4216
+009-000004611,281,9,Department of Health and Human Services,CMS Interoperability & Standardization - Provider Enrollment (PECOS),2031,PECOS FY 2012 2nd Quarter Release,2011-10-17,0.251,2.678,255,196.0,0.0,4307
+009-000004611,281,9,Department of Health and Human Services,CMS Interoperability & Standardization - Provider Enrollment (PECOS),2033,PECOS FY 2011 4th Quarter Release,2011-04-18,0.024,2.412,374,172.0,0.0,4125
+009-000002454,285,9,Department of Health and Human Services,CMS Medicare Appeals System (MAS),2131,MAS 508 Conformance Phase 1,2010-09-01,0.0,0.491,629,364.0,0.0,3896
+009-000002454,285,9,Department of Health and Human Services,CMS Medicare Appeals System (MAS),2132,MAS Level 3 Task Based User Interface Phase 1,2010-09-27,0.002,0.193,577,491.0,0.0,3922
+009-000002454,285,9,Department of Health and Human Services,CMS Medicare Appeals System (MAS),2135,MAS eCase File Enhancements Phase 1,2010-09-27,0.008,0.506,640,491.0,21.0,3922
+009-000002454,285,9,Department of Health and Human Services,CMS Medicare Appeals System (MAS),2136,MAS eCase File Enhancements Phase 2,2011-08-20,-0.075,0.43,338,365.0,0.0,4249
+009-000002454,285,9,Department of Health and Human Services,CMS Medicare Appeals System (MAS),2137,MAS Correspondence Letter Writing System,2011-09-30,0.339,1.163,297,274.0,91.0,4290
+009-000005234,287,9,Department of Health and Human Services,CMS Medicare Integrity Program Modernization-One PI System,2036,SGS Development 2011,2011-01-03,-0.009,0.6,479,322.0,131.0,4020
+009-000005318,299,9,Department of Health and Human Services,FDA ORA Automated Laboratory Management,2168,FDA ORA ALM Laboratory Information Management System (LIMS) Proof of Concept,2009-10-01,0.008,0.334,876,729.0,0.0,3561
+009-000005318,299,9,Department of Health and Human Services,FDA ORA Automated Laboratory Management,2171,FDA ORA ALM Electronic Laboratory Exchange Network (eLEXNET) Support 1,2010-07-22,0.126,1.644,582,538.0,0.0,3855
+009-000005318,299,9,Department of Health and Human Services,FDA ORA Automated Laboratory Management,2173,FDA ORA ALM Quality Management Information System (QMiS) Support 1,2009-07-01,0.038,0.786,968,786.0,0.0,3469
+009-000005317,310,9,Department of Health and Human Services,FDA ORA Mission Accomplishments and Regulatory Compliance Services,2150,FDA ORA MARCS Program Management and Technical Integration (PMTI),2010-09-08,-0.122,5.192,533,364.0,0.0,3903
+009-000005317,310,9,Department of Health and Human Services,FDA ORA Mission Accomplishments and Regulatory Compliance Services,2151,FDA ORA MARCS Food Safety Modernization Act (FSMA),2011-06-15,-0.002,0.116,253,76.0,1.0,4183
+009-000005317,310,9,Department of Health and Human Services,FDA ORA Mission Accomplishments and Regulatory Compliance Services,2152,"FDA ORA MARCS Authorization, Roles, and Responsibilities Management Services (ARRMS) 2",2010-09-27,0.014,1.359,514,307.0,0.0,3922
+009-000005317,310,9,Department of Health and Human Services,FDA ORA Mission Accomplishments and Regulatory Compliance Services,2154,FDA ORA MARCS Entry Manager (EM),2010-09-27,-1.885,2.248,514,417.0,0.0,3922
+009-000005317,310,9,Department of Health and Human Services,FDA ORA Mission Accomplishments and Regulatory Compliance Services,2155,FDA ORA MARCS Predictive Risk-based Evaluation and Dynamic Import Compliance Targeting (PREDICT),2010-09-29,-0.024,0.677,512,364.0,0.0,3924
+009-000005317,310,9,Department of Health and Human Services,FDA ORA Mission Accomplishments and Regulatory Compliance Services,2156,FDA ORA MARCS Document Generator Services (DGS),2010-09-27,0.004,1.294,514,364.0,44.0,3922
+009-000005317,310,9,Department of Health and Human Services,FDA ORA Mission Accomplishments and Regulatory Compliance Services,2157,FDA ORA MARCS Work Assignment and Accomplishment Manager (WAAM) 2,2010-09-27,-0.027,2.742,514,364.0,0.0,3922
+009-000005317,310,9,Department of Health and Human Services,FDA ORA Mission Accomplishments and Regulatory Compliance Services,2160,"FDA ORA MARCS Authorization, Roles, and Responsibilities Management Services (ARRMS) 2-Supplemental",2011-08-26,0.073,0.688,181,185.0,0.0,4255
+009-000005317,310,9,Department of Health and Human Services,FDA ORA Mission Accomplishments and Regulatory Compliance Services,2167,FDA ORA MARCS Software Acquisition for Oracle Technologies,2011-08-04,0.0,4.856,203,57.0,0.0,4233
+009-000005316,318,9,Department of Health and Human Services,FDA ORA Regulatory Business Information Services,2038,FDA ORA RBIS Center and External Integration,2011-07-18,0.025,0.507,371,318.0,0.0,4216
+009-000005316,318,9,Department of Health and Human Services,FDA ORA Regulatory Business Information Services,2039,"FDA ORA RBIS Data Warehouse, Data Marts, and Universes",2011-06-02,0.014,0.584,329,144.0,7.0,4170
+009-000005316,318,9,Department of Health and Human Services,FDA ORA Regulatory Business Information Services,2040,FDA ORA RBIS Firm Master List Services (FMLS) Enhancements,2011-08-15,-0.023,0.316,255,289.0,0.0,4244
+009-000005316,318,9,Department of Health and Human Services,FDA ORA Regulatory Business Information Services,2041,FDA ORA RBIS Report Development Support,2011-09-12,-1.506,2.085,315,365.0,0.0,4272
+009-000005316,318,9,Department of Health and Human Services,FDA ORA Regulatory Business Information Services,2042,FDA ORA RBIS Data Evaluation and Recommendations,2011-09-12,-0.028,0.275,290,231.0,0.0,4272
+009-999991400,330,9,Department of Health and Human Services,Federal Health Architecture,2197,Federal Health Architecture Implementation,2004-04-30,0.165,7.71,3006,3075.0,730.0,1581
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2087,EHB - Awards Streamlining,2011-03-16,0.0,0.075,407,76.0,0.0,4092
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2088,EHB - UI Upgrade Phase II,2011-05-27,-0.254,4.56,423,475.0,15.0,4164
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2089,EHB - Applications CCR Validation,2012-01-05,-0.055,0.26,200,147.0,29.0,4387
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2090,EHB - Planning Module Upgrade,2012-02-01,-0.235,0.44,173,212.0,0.0,4414
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2092,EHB - Closeout Module Upgrade Phase II,2012-05-01,0.346,0.454,83,152.0,0.0,4504
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2093,EHB - Loans - LDF,2011-02-16,0.0,0.93,435,55.0,0.0,4064
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2094,EHB - Loans - L-AOR,2011-04-13,0.0,0.93,379,76.0,0.0,4120
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2095,EHB - Loans - L-PCLA,2011-07-08,0.0,0.394,293,74.0,0.0,4206
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2096,EHB - Nurse Faculty Loan Program - ACA Support in the Formula module,2011-02-14,0.394,1.2,437,57.0,0.0,4062
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2097,EHB - Nurse Faculty Loan Program - ACA Support in the AOR module,2011-04-22,0.0,0.051,370,67.0,0.0,4129
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2098,EHB - BPMS - Release FY 2011,2010-12-10,0.0,0.253,529,199.0,0.0,3996
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2099,EHB - BPMS - Standalone Modules,2010-09-15,0.0,0.253,615,356.0,0.0,3910
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2100,EHB - Loans and Scholarships 2012,2011-03-30,-0.159,0.575,481,520.0,0.0,4106
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2101,EHB - BHPR Data Report,2011-10-03,-0.265,1.6,294,241.0,18.0,4293
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2102,EHB - CHGME - Formula module (CHGME - PAS),2011-02-23,0.0,0.823,428,174.0,0.0,4071
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2103,EHB - CHGME - Application module (CHGME - HAS),2011-02-23,0.0,0.332,428,127.0,62.0,4071
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2104,EHB - RDR - January 2011 Release (RDR 2010),2010-09-15,0.032,0.037,589,191.0,0.0,3910
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2105,EHB - RSR - January 2011 Release (RSR 2010),2010-09-15,0.346,0.497,589,110.0,0.0,3910
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2106,EHB - RSR - January 2012 Release (RSR 2011),2010-09-15,0.547,0.628,589,362.0,0.0,3910
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2107,EHB - ADAP JANUARY 2011 RELEASE,2010-10-01,-0.001,0.028,573,94.0,0.0,3926
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2108,EHB - ADR - January 2012 Release,2011-10-03,-0.024,0.06,206,120.0,3.0,4293
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2109,EHB - ADAP Client-level Phase I,2010-09-15,-0.007,0.08,589,362.0,2.0,3910
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2110,EHB - AETC Web Application FY 11 Release,2010-09-15,0.0,0.079,589,302.0,0.0,3910
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2111,EHB - DGIS Data Entry 2011,2010-09-15,0.025,0.364,589,364.0,0.0,3910
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2112,EHB - DGIS Data Entry 2012,2012-03-01,-0.121,0.208,144,184.0,27.0,4443
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2113,EHB - TVIS Web Reports 2011,2010-09-15,0.009,0.066,589,44.0,0.0,3910
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2114,EHB - TVIS Web Reports 2012,2011-09-19,0.08,0.096,220,42.0,30.0,4279
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2115,EHB - TVIS Data Entry 2012,2010-10-22,0.136,0.198,552,160.0,0.0,3947
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2116,EHB - OHRP PIMS Data Collection 2011,2010-09-27,-0.332,0.147,577,361.0,0.0,3922
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2117,EHB - OHRP PIMS Data Collection 2012,2011-10-27,0.0,0.126,208,161.0,0.0,4317
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2118,EHB - ADAP JULY 2011 RELEASE,2011-03-01,0.0,0.12,422,122.0,0.0,4077
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2119,EHB - ADR - July 2012 Release,2012-02-01,0.0,0.142,173,135.0,0.0,4414
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),2120,EHB - AETC Web Application FY 12 Release,2012-01-16,0.0,0.093,189,179.0,0.0,4398
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),3083,EHB - BPMH Release 3,2012-06-01,-2.003,0.473,52,121.0,0.0,4535
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),3085,EHB - Nurse Managed Health Clinics,2012-07-12,0.0,0.18,-51,78.0,0.0,4576
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),3087,EHB - RSR 5.x.2,2012-02-01,-0.009,0.072,173,150.0,0.0,4414
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),3089,EHB - RSR 5.x.3,2012-07-01,0.0,0.169,22,75.0,0.0,4565
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),3091,EHB - ADR - September 2012 Release,2012-06-11,0.072,0.213,42,95.0,0.0,4545
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),3093,EHB - TVIS Data Entry 2014 - Release 1,2012-02-01,0.0,0.074,173,135.0,0.0,4414
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),3095,EHB - TVIS Data Entry 2014 - Release 2,2012-06-11,0.021,0.138,42,95.0,0.0,4545
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),3099,EHB - DGIS Web Reports May 2012 Release,2012-02-01,0.0,0.117,148,104.0,0.0,4414
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),3101,EHB - OHRP PIMS Data Collection 2012 - Release 4.2,2012-03-01,0.002,0.13,119,153.0,0.0,4443
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),3103,EHB - Enterprise Site Repository,2012-01-17,-0.05,0.33,188,180.0,0.0,4399
+009-000000706,333,9,Department of Health and Human Services,HRSA - OIT Electronic Handbooks (EHBs),3105,EHB - Project Management Tools 2012,2012-01-18,-0.46,0.505,187,256.0,0.0,4400
+009-000001405,339,9,Department of Health and Human Services,NIH CC Clinical Research Information System (CRIS),2124,CRIS Version 5.5 Upgrade,2010-09-30,-0.007,1.027,600,456.0,91.0,3925
+009-000001410,342,9,Department of Health and Human Services,NIH OD Electronic Research Administration (eRA),2015,eRA - Accommodate Mandated FCOI Changes,2011-04-24,0.006,0.35,309,369.0,0.0,4131
+009-000001361,355,9,Department of Health and Human Services,HRSA - BHPr National Practitioner Data Bank (NPDB)/Healthcare Integrity and Protection Data Bank (HIPDB),1998,Databanks - Release 5.22,2011-06-20,-0.215,0.706,311,179.0,0.0,4188
+009-000001361,355,9,Department of Health and Human Services,HRSA - BHPr National Practitioner Data Bank (NPDB)/Healthcare Integrity and Protection Data Bank (HIPDB),1999,Databanks - Release 5.23,2011-06-13,-0.293,0.865,344,263.0,0.0,4181
+009-000001361,355,9,Department of Health and Human Services,HRSA - BHPr National Practitioner Data Bank (NPDB)/Healthcare Integrity and Protection Data Bank (HIPDB),2000,Databanks - Release 5.24,2011-08-01,0.316,1.39,332,284.0,0.0,4230
+009-000001361,355,9,Department of Health and Human Services,HRSA - BHPr National Practitioner Data Bank (NPDB)/Healthcare Integrity and Protection Data Bank (HIPDB),2001,Databanks - Release 5.25,2011-10-31,-0.083,1.212,266,233.0,0.0,4321
+009-000001361,355,9,Department of Health and Human Services,HRSA - BHPr National Practitioner Data Bank (NPDB)/Healthcare Integrity and Protection Data Bank (HIPDB),2002,Databanks - Release 6.01,2012-01-16,-0.296,0.95,189,156.0,0.0,4398
+009-000001361,355,9,Department of Health and Human Services,HRSA - BHPr National Practitioner Data Bank (NPDB)/Healthcare Integrity and Protection Data Bank (HIPDB),2003,Databanks - Release 6.02,2012-03-26,0.275,0.944,119,263.0,0.0,4468
+009-000236620,991,9,Department of Health and Human Services,CMS HITECH (Health Information Technology for Economic & Clinical Health),2183,HITECH NLR Release 11.04,2011-03-04,1.255,6.54,419,220.0,0.0,4080
+009-000236620,991,9,Department of Health and Human Services,CMS HITECH (Health Information Technology for Economic & Clinical Health),2184,HITECH NLR Release 12.01,2011-05-27,-0.333,5.034,361,221.0,59.0,4164
+009-000236620,991,9,Department of Health and Human Services,CMS HITECH (Health Information Technology for Economic & Clinical Health),2185,HITECH NLR Release 12.02,2011-07-22,0.485,5.034,305,255.0,0.0,4220
+009-000236620,991,9,Department of Health and Human Services,CMS HITECH (Health Information Technology for Economic & Clinical Health),2186,HITECH NLR Release 12.03,2011-10-21,-0.277,5.034,276,255.0,0.0,4311
+009-000236620,991,9,Department of Health and Human Services,CMS HITECH (Health Information Technology for Economic & Clinical Health),2187,HITECH NLR Release 12.04,2012-01-28,-0.125,5.034,177,247.0,0.0,4410
+009-000267388,1001,9,Department of Health and Human Services,CMS CCIIO HealthCare.GOV Plan Finder IT Investment,2190,CMS CCIIO Healthcare.GOV Plan Finder Final Data Collection from CMP and Transition to RBIS,2011-07-26,0.398,1.8,275,183.0,0.0,4224
+009-000004093,1087,9,Department of Health and Human Services,Continued Implementation of HSPD-12 (formerly known as IAM@HHS),2145,Enable New and Existing Physical Access Control Systems to use PIV Credentials as required by M-11-11,2010-11-01,-0.348,0.73,630,676.0,0.0,3957
+009-000276109,1089,9,Department of Health and Human Services,HRSA - BPHC Bureau of Primary Health Care Management Information System (BHCMIS),2051,BCHMIS - UDS,2011-07-01,-0.06,1.9,388,455.0,0.0,4199
+009-000276109,1089,9,Department of Health and Human Services,HRSA - BPHC Bureau of Primary Health Care Management Information System (BHCMIS),2055,BCHMIS - PMM,2011-10-03,-0.036,0.899,294,361.0,0.0,4293
+009-000276109,1089,9,Department of Health and Human Services,HRSA - BPHC Bureau of Primary Health Care Management Information System (BHCMIS),2056,BCHMIS - HCQR,2011-06-01,0.009,0.785,418,485.0,0.0,4169
+009-000276109,1089,9,Department of Health and Human Services,HRSA - BPHC Bureau of Primary Health Care Management Information System (BHCMIS),2057,BCHMIS - SCOPE,2011-07-01,-0.026,1.255,388,452.0,0.0,4199
+009-000276109,1089,9,Department of Health and Human Services,HRSA - BPHC Bureau of Primary Health Care Management Information System (BHCMIS),2058,BCHMIS - FQHC-LAL,2011-07-01,-0.017,1.515,388,392.0,0.0,4199
+009-000281361,1090,9,Department of Health and Human Services,CMS National Fraud Prevention Program,2195,NFPP - PILOT,2010-07-30,0.0,4.0,636,702.0,3105.0,3863
+009-000282322,1096,9,Department of Health and Human Services,CMS Physician Feedback Program,2196,Physician Feedback,2011-09-01,-0.14,1.479,326,394.0,0.0,4261
